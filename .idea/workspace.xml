@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1d60e84-8f04-46ff-8f5d-1a985ce19c4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logical Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/BinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/CouponNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/MonthlyPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/SquareRootCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/TemperatureConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/VendingMachineChange.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2WCBPibRn2qhPkRk5UOueDOTR8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Binary">
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Binary" />
+      <module name="Logical Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.DateUtils" />
+      <module name="Logical Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.PrimeNumber" />
+      <module name="Logical Programs" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRootCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.SquareRootCalculator" />
+      <module name="Logical Programs" />
+      <option name="PROGRAM_PARAMETERS" value="256" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.VendingMachineChange" />
+      <module name="Logical Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Binary" />
+      <item itemvalue="Application.DateUtils" />
+      <item itemvalue="Application.VendingMachineChange" />
+      <item itemvalue="Application.PrimeNumber" />
+      <item itemvalue="Application.SquareRootCalculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Binary" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.VendingMachineChange" />
+        <item itemvalue="Application.SquareRootCalculator" />
+        <item itemvalue="Application.PrimeNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d60e84-8f04-46ff-8f5d-1a985ce19c4c" name="Changes" comment="" />
+      <created>1696226659030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696226659030</updated>
+    </task>
+    <servers />
+  </component>
+</project>
